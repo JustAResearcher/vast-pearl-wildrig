@@ -7,7 +7,7 @@ name are supplied as Vast default-job arguments.
 WildRig 0.50.1 is fetched from the maintainer's GitHub release and pinned to
 SHA-256 `9f22e6291dbb4ec922d9698828afcf28502b8ffff9db83f52ee3d56475f66317`.
 The workflow publishes the Linux/amd64 image to
-`ghcr.io/justaresearcher/vast-pearl-wildrig:0.50.1`.
+`ghcr.io/justaresearcher/vast-pearl-wildrig-0501:0.50.1`.
 
 Example arguments:
 
